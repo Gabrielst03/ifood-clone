@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "Lanches",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/lanches_HC15.png?imwidth=128"
+    },
+    {
+        "id": "2",
+        "title": "Pizza",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/pizzas_KxCO.png?imwidth=128"
+    },
+    {
+        "id": "3",
+        "title": "Brasileira",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/brasileira_1XfT.png?imwidth=128"
+    },
+    {
+        "id": "4",
+        "title": "Açaí",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/acai_WTXp.png?imwidth=128"
+    },
+    {
+        "id": "5",
+        "title": "Árabe",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/arabe_8LSW.png?imwidth=128"
+    },
+    {
+        "id": "6",
+        "title": "Italiana",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/italiana_Y4je.png?imwidth=128"
+    },
+    {
+        "id": "7",
+        "title": "Marmita",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/Marmita2_LXbQ.png?imwidth=128"
+    },
+    {
+        "id": "8",
+        "title": "Chinesa",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/chinesa_pIpW.png?imwidth=128"
+    },
+    {
+        "id": "9",
+        "title": "Padarias",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/padaria_cF7D.png?imwidth=128"
+    },
+    {
+        "id": "10",
+        "title": "Japonesa",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/japonesa_FP14.png?imwidth=128"
+    },
+    {
+        "id": "11",
+        "title": "Vegetariana",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/vegetariana_XGvO.png?imwidth=128"
+    },
+    {
+        "id": "12",
+        "title": "Pastel",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/pastel2_qeWo.png?imwidth=128"
+    },
+    {
+        "id": "13",
+        "title": "Gourmet",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/gourmet_qo1l.png?imwidth=128"
+    },
+    {
+        "id": "14",
+        "title": "Carnes",
+        "image": "https://static.ifood-static.com.br/image/upload/t_medium/discoveries/carnes_T64X.png?imwidth=128"
+    }
+]
